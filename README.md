@@ -2,8 +2,8 @@
 
 ## Integrantes
 
-* Nome do Aluno 1
-* Nome do Aluno 2
+* Adriano Macedo das Mercez Filho - Código 
+* Gabriel Bandeira Gonzaga - Slides 
 * Nome do Aluno 3
 
 **Disciplina:** Projeto e Análise de Algoritmos I
