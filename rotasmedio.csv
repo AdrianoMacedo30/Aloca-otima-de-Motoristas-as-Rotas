@@ -1,0 +1,11 @@
+id_rota,descricao,origem,destino
+R1,Anapolis-Brasilia,Anapolis,Brasilia
+R2,Anapolis-Goiania,Anapolis,Goiania
+R3,Anapolis-Cuiaba,Anapolis,Cuiaba
+R4,Anapolis-CampoGrande,Anapolis,CampoGrande
+R5,Anapolis-Dourados,Anapolis,Dourados
+R6,Anapolis-Sinop,Anapolis,Sinop
+R7,Anapolis-Rondonopolis,Anapolis,Rondonopolis
+R8,Anapolis-Luziania,Anapolis,Luziania
+R9,Anapolis-Cristalina,Anapolis,Cristalina
+R10,Anapolis-Formosa,Anapolis,Formosa

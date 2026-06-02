@@ -1,0 +1,5 @@
+id_rota,descricao,origem,destino
+R1,Anapolis-Brasilia,Anapolis,Brasilia
+R2,Anapolis-Goiania,Anapolis,Goiania
+R3,Anapolis-Cuiaba,Anapolis,Cuiaba
+R4,Anapolis-CampoGrande,Anapolis,CampoGrande
