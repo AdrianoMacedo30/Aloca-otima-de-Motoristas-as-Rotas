@@ -4,7 +4,7 @@
 
 * Adriano Macedo das Mercez Filho - Código 
 * Gabriel Bandeira Gonzaga - Slides 
-* Nome do Aluno 3
+* Lucas Henrique Fogaça Pimenta - Slides 
 
 **Disciplina:** Projeto e Análise de Algoritmos I
 
