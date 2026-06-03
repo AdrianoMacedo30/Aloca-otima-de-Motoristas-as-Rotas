@@ -260,27 +260,52 @@ Métricas analisadas:
 
 # 10. Como Executar
 
-## Instalar Dependências
+## Ambiente Utilizado
 
-```bash
-pip install -r requirements.txt
+O projeto foi desenvolvido e executado utilizando o Google Colab.
+
+## Instalação das Dependências
+
+Execute a célula abaixo:
+
+```python
+!pip install pandas numpy scipy
 ```
 
-## Executar Instância Pequena
+## Upload dos Arquivos CSV
 
-```bash
-cd src
+Faça o upload dos seguintes arquivos para o ambiente do Colab:
 
-python main.py ../data/pequeno
-```
+### Instância Pequena
 
-## Executar Instância Média
+* motoristaspequeno.csv
+* rotaspequeno.csv
+* custospequeno.csv
 
-```bash
-cd src
+### Instância Média
 
-python main.py ../data/medio
-```
+* motoristasmedio.csv
+* rotasmedio.csv
+* custosmedio.csv
+
+Os arquivos devem ficar armazenados no diretório padrão do Colab (`/content`).
+
+## Execução
+
+Após realizar o upload dos arquivos, execute todas as células do notebook.
+
+O programa executará automaticamente:
+
+1. Teste Pequeno (4x4)
+2. Teste Médio (10x10)
+
+Para cada teste serão exibidos:
+
+* Resultado do Algoritmo Guloso;
+* Resultado do Algoritmo Húngaro;
+* Custo total de cada solução;
+* Economia obtida pela solução ótima;
+* Tempo de execução dos algoritmos.
 
 ---
 
@@ -317,7 +342,7 @@ Húngaro: 53
 
 ---
 
-# 14. Conclusão
+# 12. Conclusão
 
 O problema de alocação de motoristas às rotas foi modelado como um problema clássico de atribuição.
 
