@@ -213,7 +213,7 @@ Onde n representa a quantidade de motoristas e rotas.
 
 ---
 
-# 9. Testes Realizados
+# 8. Testes Realizados
 
 ## Teste 1 – Instância Pequena (4x4)
 
@@ -258,7 +258,7 @@ Métricas analisadas:
 
 ---
 
-# 10. Como Executar
+# 9. Como Executar
 
 ## Ambiente Utilizado
 
@@ -309,7 +309,7 @@ Para cada teste serão exibidos:
 
 ---
 
-# 11. Exemplo de Saída
+# 10. Exemplo de Saída
 
 ```text
 ==================================================
@@ -342,7 +342,7 @@ Húngaro: 53
 
 ---
 
-# 12. Conclusão
+# 11. Conclusão
 
 O problema de alocação de motoristas às rotas foi modelado como um problema clássico de atribuição.
 
