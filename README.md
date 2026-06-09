@@ -2,7 +2,8 @@
 
 ## Integrantes
 
-* Adriano Macedo das Mercez Filho - Código 
+* Adriano Macedo das Mercez Filho - Código
+* Nathália Estouco Melo - Código
 * Gabriel Bandeira Gonzaga - Slides 
 * Lucas Henrique Fogaça Pimenta - Slides 
 
